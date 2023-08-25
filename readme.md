@@ -8,4 +8,4 @@ Arbeitsplan für 25.08:
 2. ✍️Nicht fertige Aufträge von Modulen beenden
 3. ✍️Ein paar Aufträge mit Moodle Tests absolvieren oder für Tests lernen oder Hausaufgaben machen
    Reflexion:
-   Ich konnte alle Dinge die ich mir heute vorgenommen habe. 
+   Ich konnte alle Dinge die ich mir heute vorgenommen habe erledigen. Ich hatte viel Zeit übrig also habe ich noch ein Auftrag mehr gelöst und mich in C# versucht
