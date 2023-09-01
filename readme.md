@@ -14,7 +14,14 @@ Arbeitsplan für 25.08:
 
    Leitsatz 1.09:
    1. E-Portfolio Einträge abschliessen
-   2. Ein C# Programm programmieren
-   3. Wenn Zeit übrig, ein paar Aufträge erledigen
+   2. ✍️Ein C# Programm programmieren
+   3. ✍️Wenn Zeit übrig, ein paar Aufträge erledigen
 
 Zusammenfassung 1.09:
+Heute habe ich mein erstes C# Programm erstellt, an meinen E-Portfolio Einträgen gearbeitet und ein paar Modulaufträge erledigt. Ich habe ein Quiz mit 6 Fragen programmiert welches mit einer kleinen Hilfe ohne grössere Probleme geklappt hat. Es sind ein paar Fehler aufgetaucht die ich jedoch selbstständig lösen konnte. Ich habe 2 Moodle Aufträge inklusive ihrer Nachweise erldigt. Ich habe auch an meinen E-Portfolio gearbeitet konnte es jedoch nicht fertigmachen, weil ich eine Schreibblockade hatte und noch mehr Einträge dazugekommen sind. Ich fand den heutigen Tag eher mittelmässig produktiv doch ich habe eigentlich grosse Schritte bezüglich C# gemacht.
+
+
+## Planung für 15.09:
+1. E-Portfolio weiterführen
+2. Zweites Programm erstellen
+3. Weitere Aufträge machen
