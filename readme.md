@@ -16,3 +16,5 @@ Arbeitsplan für 25.08:
    1. E-Portfolio Einträge abschliessen
    2. Ein C# Programm programmieren
    3. Wenn Zeit übrig, ein paar Aufträge erledigen
+
+Zusammenfassung 1.09:
