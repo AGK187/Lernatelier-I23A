@@ -25,3 +25,11 @@ Heute habe ich mein erstes C# Programm erstellt, an meinen E-Portfolio Einträge
 1. E-Portfolio weiterführen
 2. Zweites Programm erstellen
 3. Weitere Aufträge machen
+
+   Zusammenfassung 15.09
+   Heute habe ich mir 3 Sachen vorgenommen, die ich auch alle erfüllen konnte. Als erstes habe ich mir das E-Portfolio vorgenommen. Dieses habe ich wieder neu gestaltet weil ich mit dem Aussehen von vorhin nicht zufrieden war. Ich habe zwar nicht so viel geschrieben aber ich denke das ich richtig geschrieben habe. Ausserdem habe ich mein C# Quiz verbessert. Jetzt hat es mehr Fragen. Weil ich kleine Rückstände in einem Modul hatte, habe ich Aufträge dazu erledigt. Ich war heute überraschend produktiv, trotz Online-Unterricht.
+   ## Planung 22.09:
+   1.E-Portfolio: Mehr dazumachen um nicht in den Ferien stressen zu müssen
+   2.Neues C# Projekt: Ich versuche einen Taschenrechner zu machen. Dies wird länger dauern als andere Projekte.
+   3.Aufträge machen: Je mehr Aufträge ich schneller mache desto besser.
+   
