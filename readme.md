@@ -32,4 +32,9 @@ Heute habe ich mein erstes C# Programm erstellt, an meinen E-Portfolio Einträge
    1.E-Portfolio: Mehr dazumachen um nicht in den Ferien stressen zu müssen
    2.Neues C# Projekt: Ich versuche einen Taschenrechner zu machen. Dies wird länger dauern als andere Projekte.
    3.Aufträge machen: Je mehr Aufträge ich schneller mache desto besser.
+
+
+
+   ## Zusammenfassung 1. Lernperiode
+   Ich habe mich in dieser Lernperiode vor allem mit dem erledigen von Aufträgen beschäftigt und einfachen Programmierprojekte erstellt. Was ich meiner Meinung nach gut gemacht habe während meiner Arbeitszeit ist es meine Arbeitspakete einhaltend zu erledigen. Ich habe mich streng an meine Voraussetzungen gehalten. Was ich meiner Meinung nach nicht so gut gemacht habe ist es besonders produktiv an manchen Stellen zu sein. MAnche Dinge die ich mir vorgenommen habe waren Überreste von Dingen für die ich im normalem Unterricht keine Zeit oder Lust hatte. Daher war meine Motivation teilweise nicht so gross. Würde ich meine Arbeit zwischen 1-10 bewerten dann würde ich mir selber eine 7 geben da ich für das erste mal realtiv gut meine Sachen gemacht habe.
    
